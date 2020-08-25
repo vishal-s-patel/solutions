@@ -1,0 +1,8 @@
+1. set var=first as first element of coins array
+2. set var=last as last element of coins array
+3. compare first and last element
+   Assign max element to current player
+   if first element is max then pop first element
+   else pop last element
+4. compare sum of assigned elements of each player
+5. player with max sum is winner.
